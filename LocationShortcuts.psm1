@@ -13,7 +13,7 @@
 
 .NOTES
     File Name      : LocationShortcuts.psm1
-    Author         : PowerShell Module
+    Author         : Leigh Butterworth
     Prerequisite   : PowerShell 5.1 or later
     
 .LINK
